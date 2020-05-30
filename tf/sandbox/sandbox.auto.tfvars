@@ -86,8 +86,3 @@ data_disks = [
     rg_location       = "EastUS2"
   }
 ]
-
-
-azurerm_dns_zone_azure      = "azuresb.sherwin.com"
-azurerm_dns_zone_azure_type = "Public"
-azurerm_dns_zone_azure_name = "sandbox_azurerm_dns_zone"
