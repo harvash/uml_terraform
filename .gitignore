@@ -1,0 +1,5 @@
+sandbox_secrets.tfvars
+.terraform/
+.terraform/plugins/
+.id_rsa
+.id_rsa.pub

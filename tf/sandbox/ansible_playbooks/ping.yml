@@ -1,0 +1,7 @@
+---
+#- hosts: "{{variable_hosts}}"
+- name: "Ping test"
+  hosts: all
+  gather_facts: true
+  tasks:
+    - ping:
